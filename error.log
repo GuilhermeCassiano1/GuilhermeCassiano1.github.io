@@ -19,3 +19,25 @@ Fri Mar 21 2025 19:30:58 GMT-0700 (Pacific Daylight Time)
 fatal: not a git repository (or any of the parent directories): .git
 
 
+----------
+
+Fri Mar 21 2025 19:38:41 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:38:41 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'cv.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:38:41 GMT-0700 (Pacific Daylight Time)
+
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:GuilhermeCassiano1/GuilhermeCassiano1.github.io.git'
+
+

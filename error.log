@@ -41,3 +41,28 @@ error: src refspec main does not match any
 error: failed to push some refs to 'github.com:GuilhermeCassiano1/GuilhermeCassiano1.github.io.git'
 
 
+----------
+
+Fri Mar 21 2025 19:40:38 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:40:38 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'cv.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:40:38 GMT-0700 (Pacific Daylight Time)
+
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+

@@ -98,3 +98,41 @@ Please make sure you have the correct access rights
 and the repository exists.
 
 
+----------
+
+Fri Mar 21 2025 19:43:53 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:43:53 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'cv.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:43:53 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'error.log', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Fri Mar 21 2025 19:43:53 GMT-0700 (Pacific Daylight Time)
+
+git@github.com: Permission denied (publickey).
+
+
+----------
+
+Fri Mar 21 2025 19:43:53 GMT-0700 (Pacific Daylight Time)
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+

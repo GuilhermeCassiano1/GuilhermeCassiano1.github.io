@@ -1785,3 +1785,86 @@ hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/bootstrap/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/css/pikaday.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/fonts/ionicons.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/fonts/ionicons.svg', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'assets/js/theme.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'error.log', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:34 GMT-0700 (Pacific Daylight Time)
+
+warning: in the working copy of 'oldindex.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Wed Apr 16 2025 13:54:35 GMT-0700 (Pacific Daylight Time)
+
+To github.com:GuilhermeCassiano1/GuilhermeCassiano1.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:GuilhermeCassiano1/GuilhermeCassiano1.github.io.git'
+
+
+----------
+
+Wed Apr 16 2025 13:54:35 GMT-0700 (Pacific Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
